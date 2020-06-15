@@ -5,7 +5,7 @@ This app uses [OpenWeatherMap API](https://openweathermap.org/api) to grab the w
 
 All the codes are based on java.
 
-I am working on Android Studio 4.0 Minimum SDK: API 21: Android 5.0 (Lollipop).DK: API 21: Android 5.0 (Lollipop).
+I am working on Android Studio 4.0 with Minimum SDK: API 21: Android 5.0 (Lollipop).
 
 **Note: Please insert your own API key(APP_ID) in WeatherController.java file.**
 
