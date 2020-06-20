@@ -3,6 +3,11 @@ This app provides current temperature and weather condition (by icon) by using G
 
 This app uses [OpenWeatherMap API](https://openweathermap.org/api) to grab the weather data.
 
+Snapshots are below:
+
+<img src="https://raw.githubusercontent.com/shvmsaini/Climate/master/Images/Screenshot_1592645581.png" width="30%"></img>
+<img src="https://raw.githubusercontent.com/shvmsaini/Climate/master/Images/Screenshot_1592645593.png" width="30%"></img>
+
 All the codes are based on java.
 
 I am working on Android Studio 4.0 with Minimum SDK: API 21: Android 5.0 (Lollipop).
